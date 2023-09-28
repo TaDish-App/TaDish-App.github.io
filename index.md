@@ -1,3 +1,4 @@
+https://courses.ics.hawaii.edu/mobile-application-development/morea/ftw/reading-ftw-projects.html#dish-data
 # Motivation
 _This section explains why the project exists. What problem(s) is it hoping to address?_
 
@@ -12,6 +13,9 @@ _This section should provide a link to the repo containing your code, and instru
 
 # Development status
 _This section should provide a link to your Project Board._
+Project Board [link](https://github.com/orgs/TaDish-App/projects/1/views/1)
 
 # About us
 _This section should introduce all of the team members._
+https://timothyhuo1.github.io/
+https://alyssia-chen.github.io/
