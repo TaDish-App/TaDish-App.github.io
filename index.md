@@ -2,8 +2,16 @@ https://courses.ics.hawaii.edu/mobile-application-development/morea/ftw/reading-
 # Motivation
 _This section explains why the project exists. What problem(s) is it hoping to address?_
 
+Addressing food resiliency in the context of climate change requires individuals to adjust their eating habits towards locally sourced and indigenous foods, as well as vegetarian or vegan options. However, finding restaurants serving such "food resilient dishes" is challenging due to limited market demand. This creates a dilemma for those seeking these dishes, and the absence of a platform for like-minded individuals to connect compounds the issue. Traditional restaurant rating apps lack detailed dish-level data and ingredient-based filtering options, and the problem of plate waste remains unsolved.
+
+Dish Data offers a solution by enabling restaurant visitors to provide detailed data about individual dishes and apply various tags to them. These tags help identify and promote food resilient dishes to the community, stimulating demand and potentially increasing restaurant revenue. The app also serves to reduce plate waste by providing comprehensive dish information upfront.
+
+The mobile platform allows users to conveniently capture and share dish images during evaluation, a feature impractical with laptops. This accessibility aligns with the on-the-go nature of restaurant dining, making the app an ideal tool for users seeking sustainable and locally sourced dining options.
+
 # Goals
 _What are the desired capabilities of the technology? How can someone know if the project is helping to address the problem(s)?_
+
+The desired capabilities of the Dish Data technology encompass detailed dish-level data collection, user-friendly tagging and categorization options, advanced search and filtering functionalities, the promotion of a vibrant user community, real-time dish ratings and reviews, geolocation features for restaurant discovery, and easy image sharing capabilities. Together, these features aim to empower users to make informed choices about sustainable, locally sourced, and indigenous foods while fostering a community committed to food resiliency. The success of the project can be measured by increased demand for food resilient dishes, reduced plate waste, and a growing user base actively engaged in promoting eco-conscious dining choices.
 
 # Usage
 _This section provides an overview of the current status of the technology associated with the project. It should include screenshots for all implemented screens of the app. Provide descriptive text with each screenshot and build a narrative. (This section will get progressively more detailed with each release of your app.)_
