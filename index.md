@@ -27,6 +27,8 @@ Already a member of the Dish Data community? Welcome back! Sign in to your accou
 ### Recommendation Page 
 <img src="../images/recommendation_1.png" alt="recommendation_1" width="200" height="400">
 <img src="../images/recommendation_2.png" alt="recommendation_2" width="200" height="400">
+<br>
+
 Welcome to Dish Data's Recommendation Page, where your taste preferences take center stage. We understand that finding the perfect dish can be an exciting journey, and we're here to guide you every step of the way. Swipe through a curated selection of delectable dishes, each accompanied by mouthwatering pictures, detailed information, and real-time ratings from our community of food enthusiasts.
 
 Swipe Right: If a dish tickles your taste buds, swipe right to give it a thumbs-up, and we'll automatically save it to your personalized list for future reference. Your likes help us tailor recommendations even further, ensuring you'll always find dishes that match your culinary desires.
@@ -38,6 +40,8 @@ Our recommendations are based on aggregated ratings and assessments from users w
 ### Suprise Page 
 <img src="../images/surprise.png" alt="surprise" width="200" height="400">
 <img src="../images/surprise_result.png" alt="surprise_result" width="200" height="400">
+<br>
+
 Introducing the Dish Data "Spin the Wheel" feature, the ultimate solution for those moments when you just can't decide what to eat. Whether you're dining solo or with a group of friends, our Spin the Wheel page has you covered. Simply add your friends by entering their IDs or scanning their QR codes to merge your top dishes and personal taste preferences.
 
 With your combined dining wisdom, you're ready to embark on a culinary adventure like no other. Spin the wheel to unveil surprising dish recommendations that match your collective preferences. It's a fun and exciting way to break the monotony of decision-making and discover new flavors together.
