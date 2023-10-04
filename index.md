@@ -21,7 +21,6 @@ Discover and share your dining experiences like never before with Dish Data, the
 Ready to elevate your dining experiences? Sign up for Dish Data and open the door to a world of culinary exploration. Record your food adventures, connect with like-minded individuals, and never wonder where to dine again. Whether you're a vegetarian seeking plant-based delights or an adventurous eater, Dish Data has something for everyone. Sign up today and start building a stronger food-loving community!
 
 ### Sign In
-![SignIn](../images/signin.png)
 <img src="../images/signin.png" alt="signin" width="200" height="400">
 Already a member of the Dish Data community? Welcome back! Sign in to your account and pick up where you left off. Access your personalized dining history, connect with friends, and explore a world of delicious possibilities. Your culinary journey is just a click away.
 
