@@ -25,7 +25,7 @@ Ready to elevate your dining experiences? Sign up for Dish Data and open the doo
 Already a member of the Dish Data community? Welcome back! Sign in to your account and pick up where you left off. Access your personalized dining history, connect with friends, and explore a world of delicious possibilities. Your culinary journey is just a click away.
 
 ### Recommendation Page 
-<img src="../images/Recommendation_1.png" alt="Recommendation_1" width="200" height="400">
+<img src="../images/recommendation_1.png" alt="recommendation_1" width="200" height="400">
 <img src="../images/recommendation_2.png" alt="recommendation_2" width="200" height="400">
 Welcome to Dish Data's Recommendation Page, where your taste preferences take center stage. We understand that finding the perfect dish can be an exciting journey, and we're here to guide you every step of the way. Swipe through a curated selection of delectable dishes, each accompanied by mouthwatering pictures, detailed information, and real-time ratings from our community of food enthusiasts.
 
