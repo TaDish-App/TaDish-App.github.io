@@ -37,10 +37,12 @@ Already a member of the Dish Data community? Welcome back! Sign in to your accou
 <img src="../images/CameraForm/cameraPage.png" alt="CameraPage" width="200" height="400">
 <img src="../images/CameraForm/cameraChoiceModal.png" alt="CameraChoiceModal" width="200" height="400">
 <img src="../images/CameraForm/cameraTakingPicPage.png" alt="CameraTakingPicPage" width="200" height="400">
-<img src="../images/CameraForm/cameraCropPage.png.png" alt="CameraCropPage" width="200" height="400">
+<img src="../images/CameraForm/cameraCropPage.png" alt="CameraCropPage" width="200" height="400">
 <img src="../images/CameraForm/cameraPostPicPage.png" alt="CameraPostPicPage" width="200" height="400">
 <img src="../images/CameraForm/cameraTastePrefsModal.png" alt="CameraTastePrefsModal" width="200" height="400">
 <img src="../images/CameraForm/cameraConfirmationModal.png" alt="CameraConfirmationModal" width="200" height="400">
+
+Just enjoyed some dishes you've never had before? Record how you felt about them on this page! Include how scrumptious it was by giving it stars, tag it with important information (e.g. vegan, local, or vegetarian), take a picture to help you remember the dish from last time, and record how it tasted! After you press submit, now you can always access how felt about this dish in your history page, and now you've also created a dish other people can try in the future! 
 
 ### Recommendation Page 
 <img src="../images/recommendation_1.png" alt="recommendation_1" width="200" height="450">
@@ -55,7 +57,7 @@ Swipe Left: Not feeling a particular dish? Swipe left to pass, and we'll take no
 
 Our recommendations are based on aggregated ratings and assessments from users who've explored these dishes at restaurants. Dive into the world of flavors, and explore dishes based on average ratings, spiciness, sweetness, savoriness, and sourness levels. Dish Data is your trusted companion for discovering new, delightful culinary experiences. Start swiping and let your culinary adventure begin!
 
-### Suprise Page 
+### Surprise Page 
 <img src="../images/surprise.png" alt="surprise" width="200" height="450">
 <img src="../images/surprise_result.png" alt="surprise_result" width="200" height="450">
 <br>
@@ -68,12 +70,13 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 
 ### Try for Later Page
 <img src="../images/savedPage.png" alt="surprise" width="200" height="400">
+Ready to try a new dish? This dish saves all dishes you swiped right on the recommendation page and also includes dishes we think you'll adore. Get details on how others rated this dish and easily filter between various dish types to get the dish that suits your need!
 
 
 ### Profile Page
 <img src="../images/profilePage.png" alt="surprise" width="200" height="400">
 <img src="../images/profileHistoryPage.png" alt="surprise" width="200" height="400">
-
+Here you'll find information about yourself including your username, number of dishes you've rated, and number of friends! The first view on the bottom provides a showing of dishes you've rated most highly! Hit the history button to see all the dishes you've eaten in reverse chronological order! 
 
 # Installation
 _This section should provide a link to the repo containing your code, and instructions on how to install and run it. (At this point, it’s basically just download and invoke flutter run. Later, when there is a backend database, these instructions will become more complicated. Some projects may also need people to obtain API keys if you are using third party services such as Google Maps or weather services.) Note that your repo, at this point, should be public._
