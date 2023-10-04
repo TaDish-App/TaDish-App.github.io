@@ -22,6 +22,7 @@ Ready to elevate your dining experiences? Sign up for Dish Data and open the doo
 
 ### Sign In
 <img src="../images/signin.png" alt="signin" width="200" height="450">
+
 Already a member of the Dish Data community? Welcome back! Sign in to your account and pick up where you left off. Access your personalized dining history, connect with friends, and explore a world of delicious possibilities. Your culinary journey is just a click away.
 
 ### Recommendation Page 
