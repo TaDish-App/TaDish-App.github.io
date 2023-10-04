@@ -24,6 +24,15 @@ Ready to elevate your dining experiences? Sign up for Dish Data and open the doo
 <img src="../images/signin.png" alt="signin" width="200" height="400">
 Already a member of the Dish Data community? Welcome back! Sign in to your account and pick up where you left off. Access your personalized dining history, connect with friends, and explore a world of delicious possibilities. Your culinary journey is just a click away.
 
+### Record a dish Page
+<img src="../images/CameraForm/cameraPage.png" alt="CameraPage" width="200" height="400">
+<img src="../images/CameraForm/cameraChoiceModal.png" alt="CameraChoiceModal" width="200" height="400">
+<img src="../images/CameraForm/cameraTakingPicPage.png" alt="CameraTakingPicPage" width="200" height="400">
+<img src="../images/CameraForm/cameraCropPage.png.png" alt="CameraCropPage" width="200" height="400">
+<img src="../images/CameraForm/cameraPostPicPage.png" alt="CameraPostPicPage" width="200" height="400">
+<img src="../images/CameraForm/cameraTastePrefsModal.png" alt="CameraTastePrefsModal" width="200" height="400">
+<img src="../images/CameraForm/cameraConfirmationModal.png" alt="CameraConfirmationModal" width="200" height="400">
+
 ### Recommendation Page 
 <img src="../images/Recommendation_1.png" alt="Recommendation_1" width="200" height="400">
 <img src="../images/recommendation_2.png" alt="recommendation_2" width="200" height="400">
@@ -43,6 +52,15 @@ Introducing the Dish Data "Spin the Wheel" feature, the ultimate solution for th
 With your combined dining wisdom, you're ready to embark on a culinary adventure like no other. Spin the wheel to unveil surprising dish recommendations that match your collective preferences. It's a fun and exciting way to break the monotony of decision-making and discover new flavors together.
 
 No more endless debates or indecisive moments—let Dish Data's Spin the Wheel guide you to your next delectable meal. Join forces with friends and experience the thrill of culinary exploration like never before!
+
+### Try for Later Page
+<img src="../images/savedPage.png" alt="surprise" width="200" height="400">
+
+
+### Profile Page
+<img src="../images/profilePage.png" alt="surprise" width="200" height="400">
+<img src="../images/profileHistoryPage.png" alt="surprise" width="200" height="400">
+
 
 # Installation
 _This section should provide a link to the repo containing your code, and instructions on how to install and run it. (At this point, it’s basically just download and invoke flutter run. Later, when there is a backend database, these instructions will become more complicated. Some projects may also need people to obtain API keys if you are using third party services such as Google Maps or weather services.) Note that your repo, at this point, should be public._
