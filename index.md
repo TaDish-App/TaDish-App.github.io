@@ -70,7 +70,7 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 
 ### Try for Later Page
 <img src="../images/savedPage.png" alt="surprise" width="200" height="400">
-Ready to try a new dish? This dish saves all dishes you swiped right on the recommendation page and also includes dishes we think you'll adore. Get details on how others rated this dish and easily filter between various dish types to get the dish that suits your need!
+<p>Ready to try a new dish? This dish saves all dishes you swiped right on the recommendation page and also includes dishes we think you'll adore. Get details on how others rated this dish and easily filter between various dish types to get the dish that suits your need!</p>
 
 
 ### Profile Page
@@ -87,10 +87,17 @@ _This section should provide a link to the repo containing your code, and instru
 4. Run the application by typing ```flutter run```
 
 # Development status
-_This section should provide a link to your Project Board._
-Project Board [link](https://github.com/orgs/TaDish-App/projects/1/views/1)
+- [Phase 1](https://github.com/orgs/TaDish-App/projects/1/views/1) Project Board
+- Github [Repository](https://github.com/TaDish-App/TaDish)
+
 
 # About us
-_This section should introduce all of the team members._
-https://timothyhuo1.github.io/
-https://alyssia-chen.github.io/
+<img src="https://github.com/timothyhuo1.png" width="100">
+
+<p> Hi! My name is Timothy Huo and I am studying for a M.S. in Computer Science at the University of Hawaii.
+[Portfolio](https://timothyhuo1.github.io/)</p>
+
+<img src="https://alyssia-chen.github.io/images/ProfilePic_square2.jpg" width="100">
+<p>Hi! My name is Alyssia Chen and I am studying for a M.S. in Computer Science at the University of Hawaii.
+[Portfolio](https://timothyhuo1.github.io/)</p>
+
