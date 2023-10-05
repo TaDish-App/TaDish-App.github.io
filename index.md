@@ -1,4 +1,3 @@
-https://courses.ics.hawaii.edu/mobile-application-development/morea/ftw/reading-ftw-projects.html#dish-data
 # Motivation
 Addressing food resiliency in the context of climate change requires individuals to adjust their eating habits towards locally sourced and indigenous foods, as well as vegetarian or vegan options. However, finding restaurants serving such "food resilient dishes" is challenging due to limited market demand. This creates a dilemma for those seeking these dishes, and the absence of a platform for like-minded individuals to connect compounds the issue. Traditional restaurant rating apps lack detailed dish-level data and ingredient-based filtering options, and the problem of plate waste remains unsolved.
 
