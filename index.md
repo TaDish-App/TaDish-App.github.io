@@ -74,7 +74,7 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 ### Profile Page
 <img src="../images/profilePage.png" alt="surprise" width="200" height="400">
 <img src="../images/profileHistoryPage.png" alt="surprise" width="200" height="400">
-Here you'll find information about yourself including your username, number of dishes you've rated, and number of friends! The first view on the bottom provides a showing of dishes you've rated most highly! Hit the history button to see all the dishes you've eaten in reverse chronological order! 
+<p>Here you'll find information about yourself including your username, number of dishes you've rated, and number of friends! The first view on the bottom provides a showing of dishes you've rated most highly! Hit the history button to see all the dishes you've eaten in reverse chronological order!</p>
 
 # Installation
 1. Install Flutter and Dart
