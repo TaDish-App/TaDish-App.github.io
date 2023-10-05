@@ -1,7 +1,5 @@
 https://courses.ics.hawaii.edu/mobile-application-development/morea/ftw/reading-ftw-projects.html#dish-data
 # Motivation
-_This section explains why the project exists. What problem(s) is it hoping to address?_
-
 Addressing food resiliency in the context of climate change requires individuals to adjust their eating habits towards locally sourced and indigenous foods, as well as vegetarian or vegan options. However, finding restaurants serving such "food resilient dishes" is challenging due to limited market demand. This creates a dilemma for those seeking these dishes, and the absence of a platform for like-minded individuals to connect compounds the issue. Traditional restaurant rating apps lack detailed dish-level data and ingredient-based filtering options, and the problem of plate waste remains unsolved.
 
 Dish Data offers a solution by enabling restaurant visitors to provide detailed data about individual dishes and apply various tags to them. These tags help identify and promote food resilient dishes to the community, stimulating demand and potentially increasing restaurant revenue. The app also serves to reduce plate waste by providing comprehensive dish information upfront.
@@ -14,8 +12,6 @@ _What are the desired capabilities of the technology? How can someone know if th
 The desired capabilities of the Dish Data technology encompass detailed dish-level data collection, user-friendly tagging and categorization options, advanced search and filtering functionalities, the promotion of a vibrant user community, real-time dish ratings and reviews, geolocation features for restaurant discovery, and easy image sharing capabilities. Together, these features aim to empower users to make informed choices about sustainable, locally sourced, and indigenous foods while fostering a community committed to food resiliency. The success of the project can be measured by increased demand for food resilient dishes, reduced plate waste, and a growing user base actively engaged in promoting eco-conscious dining choices.
 
 # Usage
-_This section provides an overview of the current status of the technology associated with the project. It should include screenshots for all implemented screens of the app. Provide descriptive text with each screenshot and build a narrative. (This section will get progressively more detailed with each release of your app.)_
-
 ## Welcome to Dish Data - Dish the Dish!
 
 ### Landing Page
@@ -36,9 +32,11 @@ Already a member of the Dish Data community? Welcome back! Sign in to your accou
 ### Record a dish Page
 <img src="../images/CameraForm/cameraPage.png" alt="CameraPage" width="200" height="400">
 <img src="../images/CameraForm/cameraChoiceModal.png" alt="CameraChoiceModal" width="200" height="400">
+<p></p>
 <img src="../images/CameraForm/cameraTakingPicPage.png" alt="CameraTakingPicPage" width="200" height="400">
 <img src="../images/CameraForm/cameraCropPage.png" alt="CameraCropPage" width="200" height="400">
 <img src="../images/CameraForm/cameraPostPicPage.png" alt="CameraPostPicPage" width="200" height="400">
+<p></p>
 <img src="../images/CameraForm/cameraTastePrefsModal.png" alt="CameraTastePrefsModal" width="200" height="400">
 <img src="../images/CameraForm/cameraConfirmationModal.png" alt="CameraConfirmationModal" width="200" height="400">
 
@@ -79,8 +77,6 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 Here you'll find information about yourself including your username, number of dishes you've rated, and number of friends! The first view on the bottom provides a showing of dishes you've rated most highly! Hit the history button to see all the dishes you've eaten in reverse chronological order! 
 
 # Installation
-_This section should provide a link to the repo containing your code, and instructions on how to install and run it. (At this point, it’s basically just download and invoke flutter run. Later, when there is a backend database, these instructions will become more complicated. Some projects may also need people to obtain API keys if you are using third party services such as Google Maps or weather services.) Note that your repo, at this point, should be public._
-
 1. Install Flutter and Dart
 2. Clone TaDish Repository [here](https://github.com/HACC-Camino/HACC-Camino)
 3. Change directory (cd) into the TaDish parent directory
@@ -95,7 +91,8 @@ _This section should provide a link to the repo containing your code, and instru
 <img src="https://github.com/timothyhuo1.png" width="100">
 
 <p> Hi! My name is Timothy Huo and I am studying for a M.S. in Computer Science at the University of Hawaii.
-[Portfolio](https://timothyhuo1.github.io/)</p>
+</p> 
+- [Portfolio](https://timothyhuo1.github.io/)
 
 <img src="https://alyssia-chen.github.io/images/ProfilePic_square2.jpg" width="100">
 <p>Hi! My name is Alyssia Chen and I am studying for a M.S. in Computer Science at the University of Hawaii.
