@@ -93,8 +93,7 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 </p> 
 
 <img src="https://alyssia-chen.github.io/images/ProfilePic_square2.jpg" width="100">
-<p>Hi! My name is Alyssia Chen and I am studying for a M.S. in Computer Science at the University of Hawaii.
+<p>Hi! My name is Alyssia Chen and I am studying for a M.S. in Computer Science at the University of Hawaii.</p>
 
 - Timothy Huo's [Portfolio](https://timothyhuo1.github.io/)
-- Alyssia Chen's [Portfolio](https://alyssia-chen.github.io/)</p>
-
+- Alyssia Chen's [Portfolio](https://alyssia-chen.github.io/)
