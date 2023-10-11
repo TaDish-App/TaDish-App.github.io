@@ -83,6 +83,7 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 
 # Development status
 - [Phase 1](https://github.com/orgs/TaDish-App/projects/1/views/1) Project Board
+- [Phase 2](https://github.com/orgs/TaDish-App/projects/3/views/1) Project Board
 - Github [Repository](https://github.com/TaDish-App/TaDish)
 
 
