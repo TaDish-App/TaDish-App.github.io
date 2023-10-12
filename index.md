@@ -57,6 +57,7 @@ Our recommendations are based on aggregated ratings and assessments from users w
 ### Surprise Page 
 <img src="../images/surprise.png" alt="surprise" width="200" height="450">
 <img src="../images/surprise_result.png" alt="surprise_result" width="200" height="450">
+<img src="../images/friendsList.png" alt="surprise_result" width="200" height="450">
 <br>
 
 Introducing the Dish Data "Spin the Wheel" feature, the ultimate solution for those moments when you just can't decide what to eat. Whether you're dining solo or with a group of friends, our Spin the Wheel page has you covered. Simply add your friends by entering their IDs or scanning their QR codes to merge your top dishes and personal taste preferences.
