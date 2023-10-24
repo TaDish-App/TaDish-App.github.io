@@ -82,7 +82,7 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 
 
 <img src="../images/editRatingPage.png" width="200" height="400">
-<p>Made a mistake on a rating? No worries! Now you can edit the rating from the image to the notes you wrote about it.</p>
+<p>Made a mistake on a rating? No worries! Now you can edit the rating in any aspect by first pressing on the pencil icon of the expanded rating view.</p>
 
 # Installation
 1. Install Flutter and Dart
