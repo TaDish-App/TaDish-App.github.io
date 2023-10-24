@@ -76,6 +76,13 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 <img src="../images/profileHistoryPage.png" alt="surprise" width="200" height="400">
 <p>Here you'll find information about yourself including your username, number of dishes you've rated, and number of friends! The first view on the bottom provides a showing of dishes you've rated most highly! Hit the history button to see all the dishes you've eaten in reverse chronological order!</p>
 
+<img src="../images/expandedRatingModal.png" width="200" height="400">
+<p>Want to look back on your ratings in a more detailed manner? Press on any of the ratings within history view and you can get all the juicy details on a dish you wrote yesterday or 5 years ago</p>
+
+
+<img src="../images/editRatingPage.png" width="200" height="400">
+<p>Made a mistake on a rating? No worries! Now you can edit the rating from the image to the notes you wrote about it.</p>
+
 # Installation
 1. Install Flutter and Dart
 2. Clone TaDish Repository [here](https://github.com/HACC-Camino/HACC-Camino)
@@ -85,6 +92,7 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 # Development status
 - [Phase 1](https://github.com/orgs/TaDish-App/projects/1/views/1) Project Board
 - [Phase 2](https://github.com/orgs/TaDish-App/projects/3/views/1) Project Board
+- [Phase 3](https://github.com/orgs/TaDish-App/projects/5/views/1) Project Board
 - Github [Repository](https://github.com/TaDish-App/TaDish)
 
 
