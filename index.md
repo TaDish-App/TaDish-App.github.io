@@ -84,6 +84,12 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 <img src="../images/editRatingPage.png" width="200" height="400">
 <p>Made a mistake on a rating? No worries! Now you can edit the rating in any aspect by first pressing on the pencil icon of the expanded rating view.</p>
 
+### Settings Page
+<img src="../images/SettingPage.png" alt="surprise" width="200" height="400">
+<img src="../images/DarkMode.png" alt="surprise" width="200" height="400">
+
+<p>In Settings, users are allowed to personalize their viewing experience by choosing between Light Mode and Dark Mode. </p>
+
 # Installation
 1. Install Flutter and Dart
 2. Clone TaDish Repository [here](https://github.com/HACC-Camino/HACC-Camino)
