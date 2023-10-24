@@ -37,7 +37,8 @@ Already a member of the Dish Data community? Welcome back! Sign in to your accou
 <img src="../images/CameraForm/cameraPostPicPage.png" alt="CameraPostPicPage" width="200" height="400">
 <p></p>
 <img src="../images/CameraForm/cameraTastePrefsModal.png" alt="CameraTastePrefsModal" width="200" height="400">
-<img src="../images/CameraForm/cameraConfirmationModal.png" alt="CameraConfirmationModal" width="200" height="400">
+
+[//]: # (<img src="../images/CameraForm/cameraConfirmationModal.png" alt="CameraConfirmationModal" width="200" height="400">)
 
 Just enjoyed some dishes you've never had before? Record how you felt about them on this page! Include how scrumptious it was by giving it stars, tag it with important information (e.g. vegan, local, or vegetarian), take a picture to help you remember the dish from last time, and record how it tasted! After you press submit, now you can always access how felt about this dish in your history page, and now you've also created a dish other people can try in the future! 
 
