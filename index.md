@@ -36,7 +36,7 @@ Already a member of the Dish Data community? Welcome back! Sign in to your accou
 <img src="../images/CameraForm/cameraCropPage.png" alt="CameraCropPage" width="200" height="400">
 <img src="../images/CameraForm/cameraPostPicPage.png" alt="CameraPostPicPage" width="200" height="400">
 <p></p>
-<img src="../images/CameraForm/cameraTastePrefsModal.png" alt="CameraTastePrefsModal" width="200" height="400">
+<img src="../images/CameraForm/cameraTastePrefs.png" alt="CameraTastePrefs" width="200" height="400">
 
 [//]: # (<img src="../images/CameraForm/cameraConfirmationModal.png" alt="CameraConfirmationModal" width="200" height="400">)
 
