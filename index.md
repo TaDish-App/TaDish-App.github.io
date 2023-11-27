@@ -29,17 +29,17 @@ Ready to elevate your dining experiences? Sign up for Dish Data and open the doo
 Already a member of the Dish Data community? Welcome back! Sign in to your account and pick up where you left off. Access your personalized dining history, connect with friends, and explore a world of delicious possibilities. Your culinary journey is just a click away.
 
 ### Record a dish Page
-<img src="../images/CameraForm/cameraPage.png" alt="CameraPage" width="200" height="400">
-<img src="../images/CameraForm/cameraChoiceModal.png" alt="CameraChoiceModal" width="200" height="400">
-<p></p>
-<img src="../images/CameraForm/cameraTakingPicPage.png" alt="CameraTakingPicPage" width="200" height="400">
-<img src="../images/CameraForm/cameraCropPage.png" alt="CameraCropPage" width="200" height="400">
-<img src="../images/CameraForm/cameraPostPicPage.png" alt="CameraPostPicPage" width="200" height="400">
-<p></p>
-<img src="../images/CameraForm/cameraTastePrefs.png" alt="CameraTastePrefs" width="200" height="400">
-
-[//]: # (<img src="../images/CameraForm/cameraConfirmationModal.png" alt="CameraConfirmationModal" width="200" height="400">)
-
+<p>
+<img src="../images/CameraForm/Camera1.png" alt="Camera1" width="200" height="400">
+<img src="../images/CameraForm/Camera2.png" alt="Camera2" width="200" height="400">
+<img src="../images/CameraForm/Camera3.png" alt="Camera3" width="200" height="400">
+<img src="../images/CameraForm/Camera4.png" alt="Camera4" width="200" height="400">
+</p>
+<p>
+<img src="../images/CameraForm/Camera5.png" alt="Camera5" width="200" height="400">
+<img src="../images/CameraForm/Camera6.png" alt="Camera6" width="200" height="400">
+<img src="../images/CameraForm/Camera7.png" alt="Camera7" width="200" height="400">
+</p>
 Just enjoyed some dishes you've never had before? Record how you felt about them on this page! Include how scrumptious it was by giving it stars, tag it with important information (e.g. vegan, local, or vegetarian), take a picture to help you remember the dish from last time, and record how it tasted! After you press submit, now you can always access how felt about this dish in your history page, and now you've also created a dish other people can try in the future! 
 
 ### Recommendation Page 
