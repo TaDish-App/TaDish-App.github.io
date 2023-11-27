@@ -33,10 +33,12 @@ Already a member of the Dish Data community? Welcome back! Sign in to your accou
 <img src="../images/CameraForm/Camera1.png" alt="Camera1" width="200" height="400">
 <img src="../images/CameraForm/Camera2.png" alt="Camera2" width="200" height="400">
 <img src="../images/CameraForm/Camera3.png" alt="Camera3" width="200" height="400">
-<img src="../images/CameraForm/Camera4.png" alt="Camera4" width="200" height="400">
 </p>
 <p>
+<img src="../images/CameraForm/Camera4.png" alt="Camera4" width="200" height="400">
 <img src="../images/CameraForm/Camera5.png" alt="Camera5" width="200" height="400">
+</p>
+<p>
 <img src="../images/CameraForm/Camera6.png" alt="Camera6" width="200" height="400">
 <img src="../images/CameraForm/Camera7.png" alt="Camera7" width="200" height="400">
 </p>
