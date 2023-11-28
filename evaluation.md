@@ -1,6 +1,6 @@
 # Title: Tadish Usability Evaluation Design 
 
-# User Goals:  What are the most important things that every user must be able to accomplish on the site?
+# User Goals:
 Upload and rate individual dishes 
 Find and save new dishes that they would like to try in the future 
 Check past history of dishes that the user rated 
