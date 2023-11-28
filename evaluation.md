@@ -1,9 +1,9 @@
 # Title: Tadish Usability Evaluation Design 
 
 # User Goals:
-Upload and rate individual dishes 
-Find and save new dishes that they would like to try in the future 
-Check past history of dishes that the user rated 
+- Upload and rate individual dishes 
+- Find and save new dishes that they would like to try in the future 
+- Check past history of dishes that the user rated 
 
 # Scenarios: 
 ## Goal 1: Upload and rate individual dishes 
