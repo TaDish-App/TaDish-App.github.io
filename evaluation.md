@@ -26,10 +26,10 @@ Successful Behavior: Look through your past rated dishes and look for dishes tha
 
 # User Types: 
 TaDish caters to a diverse range of customers facing common dining challenges. The app is designed for
-Dining enthusiasts who struggle to recall specific dishes when revisiting restaurants or those apprehensive about exploring new places without assurance that the cuisine aligns with their preferences. 
-Environmentally conscious consumers seeking to minimize food waste
-Health-conscious individuals with specific dietary requirements, such as plant-based, vegetarian, or vegan diets
-Tech-savvy users comfortable with leveraging mobile applications to enhance their dining experiences.
+- Dining enthusiasts who struggle to recall specific dishes when revisiting restaurants or those apprehensive about exploring new places without assurance that the cuisine aligns with their preferences. 
+- Environmentally conscious consumers seeking to minimize food waste
+- Health-conscious individuals with specific dietary requirements, such as plant-based, vegetarian, or vegan diets
+- Tech-savvy users comfortable with leveraging mobile applications to enhance their dining experiences.
 
 # Recruitment:
 To obtain a half dozen people for each user type, we would utilize word of mouth through friends and family members. Additionally, we will attempt collaborations with restaurants and food influencers.
