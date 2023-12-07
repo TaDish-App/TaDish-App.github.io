@@ -141,7 +141,7 @@ For some participants, it wasn’t too clear what the navbar icons meant. Specif
 The saved page is supposed to only contain dishes saved after a user swipes right for it on the recommendation page whereas the heart tab on the profile page is supposed to be the most highly rated dishes that a single user had. However, participants thought the heart meant “liked” which could be synonymous with saved so they believed their saved dishes were here instead. 
 
 ## Recommendation swiping ([link](https://github.com/TaDish-App/TaDish/issues/87))
-<img src="../images/eval/saved.png" alt="surprise" width="200" height="400">
+<img src="../images/eval/swipe.png" alt="surprise" width="200" height="400">
 For users who did not use tinder before (a vast majority of our participants), it was difficult for them to know which way to swipe to save or to dismiss. It was suggested to have icons indicating save or dismiss behind the card so as the user is swiping, they know which category they’re putting the dish into. 
 
 ## Form modification ([link](https://github.com/TaDish-App/TaDish/issues/88))
