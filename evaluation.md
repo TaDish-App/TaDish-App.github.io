@@ -132,13 +132,18 @@ The user study took place in-person was conducted by one or two developers. The 
 
 # Results
 ## Navbar ([link](https://github.com/TaDish-App/TaDish/issues/85))
+<img src="../images/eval/NavBar.png" alt="surprise" width="200" height="400">
 For some participants, it wasn’t too clear what the navbar icons meant. Specifically, the adding of a new dish (middle icon) and spin-the-wheel page icon (2nd from right) were the most confusing. This, coupled with no words next to icons unless they look at the hamburger menu led to confusion as to which page was which. 
 
 ## Saved and top dishes ([link](https://github.com/TaDish-App/TaDish/issues/86))
+<img src="../images/eval/saved.png" alt="surprise" width="200" height="400">
+<img src="../images/eval/top.png" alt="surprise" width="200" height="400">
 The saved page is supposed to only contain dishes saved after a user swipes right for it on the recommendation page whereas the heart tab on the profile page is supposed to be the most highly rated dishes that a single user had. However, participants thought the heart meant “liked” which could be synonymous with saved so they believed their saved dishes were here instead. 
 
 ## Recommendation swiping ([link](https://github.com/TaDish-App/TaDish/issues/87))
+<img src="../images/eval/swipe.png" alt="surprise" width="200" height="400">
 For users who did not use tinder before (a vast majority of our participants), it was difficult for them to know which way to swipe to save or to dismiss. It was suggested to have icons indicating save or dismiss behind the card so as the user is swiping, they know which category they’re putting the dish into. 
 
 ## Form modification ([link](https://github.com/TaDish-App/TaDish/issues/88))
+<img src="../images/eval/form.png" alt="surprise" width="200" height="400">
 There were a few fields that we particularly monitored: image and star rating. We found that some users were not recognizing that the image circle is a button that can be pressed to upload or take a picture. We also found that they often skipped over the star rating because it didn’t appear to look like one. 
