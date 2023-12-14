@@ -120,13 +120,13 @@ Access the Tadish v.1.0.0 system through Firebase App Distribution on Android. T
 
 
 # About us
-<img src="https://github.com/timothyhuo1.png" width="100">
-
-<p> Hi! My name is Timothy Huo and I am studying for a M.S. in Computer Science at the University of Hawaii. For Tadish, I worked on user registration and authentication, deployment, the Recommendation page, and the Surprise page.
-</p> 
-
 <img src="https://alyssia-chen.github.io/images/ProfilePic_square2.jpg" width="100">
 <p>Hi! My name is Alyssia Chen and I am studying for a M.S. in Computer Science at the University of Hawaii. I worked on data configuration and management, the Record a Dish page, the Saved page, and the Profile page.</p>
 
-- Timothy Huo's [Portfolio](https://timothyhuo1.github.io/)
 - Alyssia Chen's [Portfolio](https://alyssia-chen.github.io/)
+
+<img src="https://github.com/timothyhuo1.png" width="100">
+<p> Hi! My name is Timothy Huo and I am studying for a M.S. in Computer Science at the University of Hawaii. For Tadish, I worked on user registration and authentication, deployment, the Recommendation page, and the Surprise page.
+</p> 
+
+- Timothy Huo's [Portfolio](https://timothyhuo1.github.io/)
