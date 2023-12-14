@@ -14,39 +14,42 @@ The desired capabilities of the Dish Data technology encompass detailed dish-lev
 ## Welcome to Dish Data - Dish the Dish!
 
 ### Landing Page
-<img src="../images/landing.png" alt="landing" width="200" height="450">
+<img src="images/landing.png" alt="landing" width="200" height="450">
 
 Discover and share your dining experiences like never before with Dish Data, the ultimate restaurant review and food exploration app. Whether you're a seasoned foodie or someone looking to broaden your palate, Dish Data has you covered. Record and track your thoughts on dishes from your favorite restaurants, connect with fellow food enthusiasts, and make informed dining decisions. Join our thriving community and embark on a culinary adventure today!
 
 ### Sign Up 
-<img src="../images/signup.png" alt="signup" width="200" height="450">
+<img src="images/signup1.png" alt="signup" width="200" height="450">
+<img src="images/signup2.png" alt="signup" width="200" height="450">
+<img src="images/signup3.png" alt="signup" width="200" height="450">
+<img src="images/signup4.png" alt="signup" width="200" height="450">
 
-Ready to elevate your dining experiences? Sign up for Dish Data and open the door to a world of culinary exploration. Record your food adventures, connect with like-minded individuals, and never wonder where to dine again. Whether you're a vegetarian seeking plant-based delights or an adventurous eater, Dish Data has something for everyone. Sign up today and start building a stronger food-loving community!
+Elevate your dining experiences with Dish Data! Sign up today to embark on a personalized culinary journey. Create a profile reflecting your unique taste preferences, and enjoy tailored recommendations, connecting with like-minded food enthusiasts. Never wonder where to dine again as you explore new restaurants and hidden gems. Receive a verification email to secure your account, and dive into a vibrant community sharing favorite dishes and recommendations. Join Dish Data now for a seamless, enjoyable, and connected food-loving experience!
 
 ### Sign In
-<img src="../images/signin.png" alt="signin" width="200" height="450">
+<img src="images/signin.png" alt="signin" width="200" height="450">
 
 Already a member of the Dish Data community? Welcome back! Sign in to your account and pick up where you left off. Access your personalized dining history, connect with friends, and explore a world of delicious possibilities. Your culinary journey is just a click away.
 
 ### Record a dish Page
 <p>
-<img src="../images/CameraForm/Camera1.png" alt="Camera1" width="200" height="400">
-<img src="../images/CameraForm/Camera2.png" alt="Camera2" width="200" height="400">
-<img src="../images/CameraForm/Camera3.png" alt="Camera3" width="200" height="400">
+<img src="images/CameraForm/Camera1.png" alt="Camera1" width="200" height="400">
+<img src="images/CameraForm/Camera2.png" alt="Camera2" width="200" height="400">
+<img src="images/CameraForm/Camera3.png" alt="Camera3" width="200" height="400">
 </p>
 <p>
-<img src="../images/CameraForm/Camera4.png" alt="Camera4" width="200" height="400">
-<img src="../images/CameraForm/Camera5.png" alt="Camera5" width="200" height="400">
+<img src="images/CameraForm/Camera4.png" alt="Camera4" width="200" height="400">
+<img src="images/CameraForm/Camera5.png" alt="Camera5" width="200" height="400">
 </p>
 <p>
-<img src="../images/CameraForm/Camera6.png" alt="Camera6" width="200" height="400">
-<img src="../images/CameraForm/Camera7.png" alt="Camera7" width="200" height="400">
+<img src="images/CameraForm/Camera6.png" alt="Camera6" width="200" height="400">
+<img src="images/CameraForm/Camera7.png" alt="Camera7" width="200" height="400">
 </p>
 Just enjoyed some dishes you've never had before? Record how you felt about them on this page! Include how scrumptious it was by giving it stars, tag it with important information (e.g. vegan, local, or vegetarian), take a picture to help you remember the dish from last time, and record how it tasted! After you press submit, now you can always access how felt about this dish in your history page, and now you've also created a dish other people can try in the future! 
 
 ### Recommendation Page 
-<img src="../images/recommendation_1.png" alt="recommendation_1" width="200" height="450">
-<img src="../images/recommendation_2.png" alt="recommendation_2" width="200" height="450">
+<img src="images/recommendation_1.png" alt="recommendation_1" width="200" height="450">
+<img src="images/recommendation_2.png" alt="recommendation_2" width="200" height="450">
 <br>
 
 Welcome to Dish Data's Recommendation Page, where your taste preferences take center stage. We understand that finding the perfect dish can be an exciting journey, and we're here to guide you every step of the way. Swipe through a curated selection of delectable dishes, each accompanied by mouthwatering pictures, detailed information, and real-time ratings from our community of food enthusiasts.
@@ -58,9 +61,9 @@ Swipe Left: Not feeling a particular dish? Swipe left to pass, and we'll take no
 Our recommendations are based on aggregated ratings and assessments from users who've explored these dishes at restaurants. Dive into the world of flavors, and explore dishes based on average ratings, spiciness, sweetness, savoriness, and sourness levels. Dish Data is your trusted companion for discovering new, delightful culinary experiences. Start swiping and let your culinary adventure begin!
 
 ### Surprise Page 
-<img src="../images/surprise.png" alt="surprise" width="200" height="450">
-<img src="../images/surprise_result.png" alt="surprise_result" width="200" height="450">
-<img src="../images/friendsList.png" alt="surprise_result" width="200" height="450">
+<img src="images/surprise.png" alt="surprise" width="200" height="450">
+<img src="images/surprise_result.png" alt="surprise_result" width="200" height="450">
+<img src="images/friendsList.png" alt="surprise_result" width="200" height="450">
 <br>
 
 Introducing the Dish Data "Spin the Wheel" feature, the ultimate solution for those moments when you just can't decide what to eat. Whether you're dining solo or with a group of friends, our Spin the Wheel page has you covered. Simply add your friends by entering their IDs or scanning their QR codes to merge your top dishes and personal taste preferences.
@@ -70,31 +73,40 @@ With your combined dining wisdom, you're ready to embark on a culinary adventure
 No more endless debates or indecisive moments—let Dish Data's Spin the Wheel guide you to your next delectable meal. Join forces with friends and experience the thrill of culinary exploration like never before!
 
 ### Try for Later Page
-<img src="../images/savedPage.png" alt="surprise" width="200" height="400">
+<img src="images/savedPage1.png" alt="surprise" width="200" height="400">
+<img src="images/savedPage2.png" alt="surprise" width="200" height="400">
 <p>Ready to try a new dish? This dish saves all dishes you swiped right on the recommendation page and also includes dishes we think you'll adore. Get details on how others rated this dish and easily filter between various dish types to get the dish that suits your need!</p>
 
 
 ### Profile Page
-<img src="../images/profilePage.png" alt="surprise" width="200" height="400">
-<img src="../images/profileHistoryPage.png" alt="surprise" width="200" height="400">
+<img src="images/profilePage.png" alt="surprise" width="200" height="400">
+<img src="images/profileHistoryPage.png" alt="surprise" width="200" height="400">
 <p>Here you'll find information about yourself including your username, number of dishes you've rated, and number of friends! The first view on the bottom provides a showing of dishes you've rated most highly! Hit the history button to see all the dishes you've eaten in reverse chronological order!</p>
 
-<img src="../images/expandedRatingModal.png" width="200" height="400">
+<img src="images/expandedRatingModal.png" width="200" height="400">
 <p>Want to look back on your ratings in a more detailed manner? Press on any of the ratings within history view and you can get all the juicy details on a dish you wrote yesterday or 5 years ago</p>
 
 
-<img src="../images/editRatingPage.png" width="200" height="400">
+<img src="images/editRatingPage.png" width="200" height="400">
 <p>Made a mistake on a rating? No worries! Now you can edit the rating in any aspect by first pressing on the pencil icon of the expanded rating view.</p>
 
 ### Settings Page
-<img src="../images/SettingPage.png" alt="surprise" width="200" height="400">
-<img src="../images/DarkMode.png" alt="surprise" width="200" height="400">
+<img src="images/SettingPage.png" alt="surprise" width="200" height="400">
+<img src="images/DarkMode.png" alt="surprise" width="200" height="400">
 
 <p>In Settings, users are allowed to personalize their viewing experience by choosing between Light Mode and Dark Mode. </p>
 
+# Usability
+<p>Following the deployment of your app, it is essential to collect user feedback through a usability test. This process comprises selecting goal-based tasks, crafting scenarios, choosing a location and participants, practicing and testing (without screen capture), and pinpointing the three most significant usability issues. In our usability test, we carried out six interviews. For a detailed overview of the methodologies and results, kindly visit our evaluation page.</p> 
+
+[evaluation page link](./evaluation.md)
+
+# Deployment
+Access the Tadish v.1.0.0 system through Firebase App Distribution on Android. To initiate system testing, kindly reach out to one of the developers via email to receive a tester invitation.
+
 # Installation
 1. Install Flutter and Dart
-2. Clone TaDish Repository [here](https://github.com/HACC-Camino/HACC-Camino)
+2. Clone TaDish Repository [here](https://github.com/TaDish-App/TaDish)
 3. Change directory (cd) into the TaDish parent directory
 4. Run the application by typing ```flutter run```
 
@@ -110,11 +122,11 @@ No more endless debates or indecisive moments—let Dish Data's Spin the Wheel g
 # About us
 <img src="https://github.com/timothyhuo1.png" width="100">
 
-<p> Hi! My name is Timothy Huo and I am studying for a M.S. in Computer Science at the University of Hawaii.
+<p> Hi! My name is Timothy Huo and I am studying for a M.S. in Computer Science at the University of Hawaii. For Tadish, I worked on user registration and authentication, deployment, the Recommendation page, and the Surprise page.
 </p> 
 
 <img src="https://alyssia-chen.github.io/images/ProfilePic_square2.jpg" width="100">
-<p>Hi! My name is Alyssia Chen and I am studying for a M.S. in Computer Science at the University of Hawaii.</p>
+<p>Hi! My name is Alyssia Chen and I am studying for a M.S. in Computer Science at the University of Hawaii. I worked on data configuration and management, the Record a Dish page, the Saved page, and the Profile page.</p>
 
 - Timothy Huo's [Portfolio](https://timothyhuo1.github.io/)
 - Alyssia Chen's [Portfolio](https://alyssia-chen.github.io/)
